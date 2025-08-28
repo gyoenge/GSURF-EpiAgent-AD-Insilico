@@ -32,7 +32,7 @@ Foundation models for single-cell epigenomics, such as EpiAgent, have recently d
 ## Reference
 
 Chen, X., Ramesh, S., Zhang, Y., Wang, J., Narayan, A., & Leskovec, J. (2024).  
-EpiAgent: A Transformer-based Foundation Model for Single-cell Epigenomics. *bioRxiv*, 2024.02.09.579755.  
-[https://doi.org/10.1101/2024.02.09.579755](https://doi.org/10.1101/2024.02.09.579755)  
+**EpiAgent: A Transformer-based Foundation Model for Single-cell Epigenomics.** *bioRxiv*, 2024.12.19.629312.  
+[https://doi.org/10.1101/2024.12.19.629312](https://doi.org/10.1101/2024.12.19.629312)  
 
-Official implementation: [https://github.com/snap-stanford/EpiAgent](https://github.com/snap-stanford/EpiAgent)
+Official implementation: [https://github.com/xy-chen16/EpiAgent](https://github.com/xy-chen16/EpiAgent)
