@@ -16,19 +16,27 @@ $ ./setup.sh
 
 ## Data Preprocessing
 
-- ..
+```bash
+jupyter notebook preprocess.ipynb
+```
 
 ## Train EpiAgent-LoRA
 
-- ..
+```bash
+jupyter notebook train.ipynb
+```
 
 ## Inference EpiAgent-LoRA
 
-- ..
+```bash
+jupyter notebook inference.ipynb
+```
 
 ## In-silico Knock-out with EpiAgent-LoRA
 
-- ..
+```bash
+jupyter notebook insilico.ipynb
+```
 
 ---
 
