@@ -21,3 +21,6 @@ Foundation models for single-cell epigenomics, such as EpiAgent, have recently d
 
 - ..
 
+## In-silico Knock-out with EpiAgent-LoRA
+
+- .. 
