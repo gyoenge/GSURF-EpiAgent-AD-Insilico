@@ -9,7 +9,10 @@ Foundation models for single-cell epigenomics, such as EpiAgent, have recently d
 
 ## Environment Setup
 
-- .. 
+```bash
+$ chmod +x ./setup.sh
+$ ./setup.sh
+```
 
 ## Data Preprocessing
 
