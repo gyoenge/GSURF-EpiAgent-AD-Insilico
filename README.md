@@ -5,6 +5,8 @@ Foundation models for single-cell epigenomics, such as EpiAgent, have recently d
 
 <img width="18908" height="6088" alt="github_figure" src="https://github.com/user-attachments/assets/ce749244-9037-4136-a1e4-de3a1b2a2f68" />
 
+---
+
 ## Environment Setup
 
 - .. 
