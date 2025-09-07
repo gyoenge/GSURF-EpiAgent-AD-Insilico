@@ -1,8 +1,8 @@
-# EpiAgent Insilico Task Extension for Alzheimer
-## 2025 Summer G-SURF Undergraduate Research Project
+# 2025 Summer G-SURF Undergraduate Research 
+## EpiAgent Insilico Task Extension for Alzheimer's Disease
 
 - G-SURF: GIST Summer Undergraduate Research Fellowship
-- Idea: **EpiAgent AD(Alzheimer's Disease) Insilico Simulation Task with Cell-type Specific LoRA** 
+- Idea: **Extend EpiAgent Insilico Simulation Task** by utilizing **Cell-type Specific LoRA** 
 
 ### Overview 
 
