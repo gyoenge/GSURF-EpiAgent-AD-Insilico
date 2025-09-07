@@ -2,7 +2,7 @@
 ## EpiAgent Insilico Task Extension for Alzheimer's Disease
 
 - G-SURF: GIST Summer Undergraduate Research Fellowship
-- Idea: **Extend EpiAgent Insilico Simulation Task** by utilizing **Cell-type Specific LoRA** 
+- Idea: **Extend EpiAgent Insilico Simulation Task** for brain disease by utilizing **Cell-type Specific LoRA** 
 
 ### Overview 
 
